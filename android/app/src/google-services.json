@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932616892290",
+    "project_id": "fire-b6aaa",
+    "storage_bucket": "fire-b6aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932616892290:android:51a343b7f98cc3ba28e99b",
+        "android_client_info": {
+          "package_name": "com.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3O19VT6ws2q0W6PpjewinGoeLhSFgeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
