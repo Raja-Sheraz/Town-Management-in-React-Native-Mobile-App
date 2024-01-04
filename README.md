@@ -17,6 +17,35 @@ npm start
 # OR using Yarn
 yarn start
 ```
+install All important libraies 
+
+```bash
+# React Native Linear Gradient:
+npm install react-native-linear-gradient
+
+# React Native Vector Icons:
+npm install react-native-vector-icons
+
+# React Navigation:
+npm install @react-navigation/native @react-navigation/stack
+
+# React Navigation Linear Gradient Header:
+Install: npm install react-navigation-linear-gradient-header
+
+# React Native Modal:
+npm install react-native-modal
+
+# React Native SQLite Storage:
+npm install react-native-sqlite-storage
+
+# React Native Paper:
+npm install react-native-paper
+
+React Native Material UI:
+Install: npm install react-native-material-ui --force
+
+```
+
 
 ## Step 2: Start your Application
 
